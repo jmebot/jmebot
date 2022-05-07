@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning about python on the website https://www.codecademy.com 
         If you have any other recommendations, please let me know. 
 - 💞️ I’m looking to collaborate on any projects that people are needing help with, from a beginner developer level.
-- <br>
 - If you are interested in collaborating or just giving me some advice/knowledge about beginning this journey, contact me through this or my email!
-- 
 - 📫 Email: jaimeis404@gmail.com
 
 <!---
