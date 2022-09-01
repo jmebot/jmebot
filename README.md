@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m @jmebot
 - 👀 I’m interested in coding and building relationships with other members so I can gain more knowledge in certain programming languages.
-- 🌱 I have knowledge in CSS, HTML, Python, C++, C#, and SQL. 
-- 💞️ I’m looking to collaborate on any projects on the side to help build a healthy portfolio.
+- 🌱 I have knowledge in CSS, HTML, Python, C#, and SQL.
+- 💞️ I’m looking to collaborate on any projects on the side to help build a portfolio.
 If you are interested in collaborating, here is my email:
 - 📫 Email: jaimeis404@gmail.com
 
